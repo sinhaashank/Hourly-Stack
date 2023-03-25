@@ -36,7 +36,7 @@ def changing_timezone(x):
 
 print('Welcome to the Stack Model Tool.')
 print('You need to enter some inputs below.')
-country = input("1. Enter the perimeter as shown here --> DE/FR/BE/ES/IT/PL/GB : ")
+country = input("1. Enter the perimeter as shown here --> DE/FR/BE/PL/IT : ")
 
 # enter date range
 ref_start_date = input("2. Enter start date (dd/mm/yyyy): ")
