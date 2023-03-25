@@ -8,7 +8,7 @@ ENTSO-E data is stored on a local database using [Arctic](https://pypi.org/proje
 
 Here is a sample plot for Germany - 
 
-![sample alert](https://github.com/sinhaashank/Stack-Model/tree/master/plots/DE_Stack.html?raw=true)
+![sample alert](https://github.com/sinhaashank/Stack-Model/tree/master/plots/DE_Stack.png?raw=true)
 
 ## Contributing
 
