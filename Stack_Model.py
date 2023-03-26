@@ -21,8 +21,6 @@ start_time = time.time()
 
 from arctic import Arctic, CHUNK_STORE
 conn = Arctic('localhost')
-conn.initialize_library('entsoe', lib_type=CHUNK_STORE)
-# conn.list_libraries()
 lib_entsoe = conn['entsoe']
 
 # function to change timezone from UTC to local time
