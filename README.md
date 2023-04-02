@@ -4,7 +4,7 @@ This repository shows an example of plotting hourly electricity data (day ahead 
 
 ENTSO-E, the European Network of Transmission System Operators for Electricity, is the association for the cooperation of the European transmission system operators (TSOs). The 39 member TSOs representing 35 countries are responsible for the secure and coordinated operation of Europe’s electricity system, the largest interconnected electrical grid in the world.
 
-ENTSO-E data is stored on a local database using [Arctic](https://pypi.org/project/arctic/) - [Link] (https://github.com/sinhaashank/entsoe_sftp_data) to the repo
+ENTSO-E data is stored on a local database using [Arctic](https://pypi.org/project/arctic/) - [Link](https://github.com/sinhaashank/entsoe_sftp_data) to the repo
 
 Here is a sample plot for Germany - 
 
